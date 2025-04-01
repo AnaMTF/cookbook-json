@@ -104,7 +104,7 @@
     <ingredient id="89">Split Peas</ingredient>
     <ingredient id="90">Edamame</ingredient>
   </category>
-  <category name="Nuts & Seeds">
+  <category name="Nuts and Seeds">
     <ingredient id="91">Almonds</ingredient>
     <ingredient id="92">Walnuts</ingredient>
     <ingredient id="93">Cashews</ingredient>
@@ -116,7 +116,7 @@
     <ingredient id="99">Flaxseeds</ingredient>
     <ingredient id="100">Pumpkin Seeds</ingredient>
   </category>
-  <category name="Spices & Herbs">
+  <category name="Spices and Herbs">
     <ingredient id="101">Salt</ingredient>
     <ingredient id="102">Black Pepper</ingredient>
     <ingredient id="103">Paprika</ingredient>
@@ -150,7 +150,7 @@
     <ingredient id="129">Relish</ingredient>
     <ingredient id="130">Tartar Sauce</ingredient>
   </category>
-  <category name="Oils & Fats">
+  <category name="Oils and Fats">
     <ingredient id="131">Olive Oil</ingredient>
     <ingredient id="132">Vegetable Oil</ingredient>
     <ingredient id="133">Canola Oil</ingredient>
